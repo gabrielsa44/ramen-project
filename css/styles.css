@@ -112,7 +112,7 @@ text-align: center;
 .pic-div{
     font-size:0;
 }
-@media(max-width:1264px){
+@media(max-width:1290px){
     .image-footer{
         display:inline-block;
         width:33.33333333%
